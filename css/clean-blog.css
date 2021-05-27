@@ -2,7 +2,7 @@
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: #FFFFFF;
+  color: #000000;
 }
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -51,7 +51,7 @@ hr.small {
   border-color: #FFFFFF;
 }
 .navbar-custom {
-  background: white;
+  background: rgb(0, 0, 0);
   position: absolute;
   top: 0;
   left: 0;
