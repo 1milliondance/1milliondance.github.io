@@ -3,7 +3,7 @@ layout:     post
 title:      원밀리언 기술 블로그를 운영을 시작합니다
 author:     오현석
 tags:
-subtitle:  	예술가 집단과 일반인 사이의 장벽을 IT 기술을 이용하여 빠르게 허물어 주는 역할을 하는 것이 원밀리언 기술조직의 존재 이유 입니다.
+subtitle:  	기술 블로그를 시작하며...
 category:  기술일반
 ---
 <!-- Start Writing Below in Markdown -->
